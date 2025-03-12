@@ -53,11 +53,15 @@ Atenção! O projeto será executado em http://localhost:3000.
 
 Após execução do projeto, este é o resultado esperado no navegador:
 <br>
+<br>
 ![Print da página inicial](./assets/homepage.png)
+<br>
 <br>
 ![Print da página informativa](./assets/info.png)
 <br>
+<br>
 ![Print da página de cadastro](./assets/bookForm.png)
+<br>
 <br>
 ![Print da página de listagem](./assets/bookList.png)
 
